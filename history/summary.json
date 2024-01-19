@@ -4,17 +4,19 @@
     "url": "https://xmr.bunkerlab.net/get_info",
     "icon": "https://www.getmonero.org/meta/favicon-32x32.png",
     "slug": "monero-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 931,
-    "timeDay": 1054,
-    "timeWeek": 931,
-    "timeMonth": 931,
-    "timeYear": 931,
-    "dailyMinutesDown": {}
+    "time": 837,
+    "timeDay": 570,
+    "timeWeek": 837,
+    "timeMonth": 837,
+    "timeYear": 837,
+    "dailyMinutesDown": {
+      "2024-01-19": 0
+    }
   }
 ]
