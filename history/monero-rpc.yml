@@ -1,7 +1,7 @@
 url: https://xmr.bunkerlab.net/get_info
-status: up
-code: 200
-responseTime: 1118
-lastUpdated: 2024-03-08T15:17:13.849Z
+status: down
+code: 502
+responseTime: 1177
+lastUpdated: 2024-03-08T16:42:03.947Z
 startTime: 2024-01-15T13:22:03.944Z
 generator: Upptime <https://github.com/upptime/upptime>
